@@ -1,9 +1,11 @@
-DigiINETD
-========
+DigiControl
+=========
 
-DigiINETD is the [InterNET services Daemon](http://en.wikipedia.org/wiki/Inetd). This is __interactive__ software that allowing for a __fine-grained__ control of who is allowed to access what or how many services at which time and log all that. This is lightweight [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) application that based on [C++ Boost](http://en.wikipedia.org/wiki/Boost_%28C%2B%2B_libraries%29), [Scala](http://en.wikipedia.org/wiki/Scala_%28programming_language%29), [AspectJ](http://en.wikipedia.org/wiki/AspectJ)
+DigiControl is agile helper for console applications such as a network services, local utilites and so on. This is __interactive__ software that allowing for a __fine-grained__ control of who is allowed to access what or how many services at which time and log all that. This is lightweight [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) application that based on [C++ Boost](http://en.wikipedia.org/wiki/Boost_%28C%2B%2B_libraries%29), [Scala](http://en.wikipedia.org/wiki/Scala_%28programming_language%29), [AspectJ](http://en.wikipedia.org/wiki/AspectJ)
 
-DigiINETD is proprietary commercial software. You may bought this software for our best price as low as 0.00 in your country's local currency.
+DigiControl is proprietary commercial software. You may bought this software for our best price as low as 0.00 in your country's local currency.
+
+__Alfa stage software__
 
 ##### Key futures.
 
@@ -15,11 +17,11 @@ DigiINETD is proprietary commercial software. You may bought this software for o
 * application component are multithreaded, asynchronous and event driven. Functional part of Scala nature allow to concentrate on primary target.
 AOP with AspectJ weaving reduce redundant code.
 * service component are rapid and __careful for battery life__. Bridge based on BOOST C++ library. This enables us to benefit from __epoll__.
-* it is fully functional, has no ads and can be used for an unlimited period
+* at this time it is fully functional, has no ads and can be used for an unlimited period
 
 Feel free to translate or modify documentation, edit wiki or add comments.
 
-Having question, suggestion or idea about the software? Contact us or open issue.
+Having question, suggestion or idea about the software? Contact us [open issue](http://github.com/ezh/android-DigiControl/issues).
 
 ##### Our vision.
 
@@ -41,7 +43,7 @@ Let us know:
 * tel: 7-495-5185377
 * skype: ezhariur
 
-### [Readme](README.en.md) [[ru]](README.ru.md)
-### [License](LICENSE.md)
+### [Readme](android-DigiControl/blob/master/README.en.md) [[ru]](android-DigiControl/blob/master/README.ru.md)
+### [License](android-DigiControl/blob/master/LICENSE.md)
 
 _PS FYI GitHub Wikis are the simplest way to contribute content. Any GitHub user can create and edit pages to use for documentation, examples, support or anything you wish._
