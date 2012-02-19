@@ -5,7 +5,7 @@ DigiControl is agile helper for console applications such as a network services,
 
 DigiControl is proprietary commercial software. You may bought this software for our best price as low as 0.00 in your country's local currency.
 
-__Alfa stage software__
+__Alpha stage software__
 
 ##### Key futures.
 
@@ -45,5 +45,12 @@ Let us know:
 
 ### [Readme](android-DigiControl/blob/master/README.en.md) [[ru]](android-DigiControl/blob/master/README.ru.md)
 ### [License](android-DigiControl/blob/master/LICENSE.md)
+
+Copyright
+---------
+
+Copyright ©  2011-2012 Alexey B. Aksenov/Ezh. All rights reserved.
+
+
 
 _PS FYI GitHub Wikis are the simplest way to contribute content. Any GitHub user can create and edit pages to use for documentation, examples, support or anything you wish._
