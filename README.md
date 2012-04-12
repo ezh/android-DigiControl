@@ -16,7 +16,7 @@ __Alpha stage software__
 * it is modular and easy to integrate with new components
 * application component are multithreaded, asynchronous and event driven. Functional part of Scala nature allow to concentrate on primary target.
 AOP with AspectJ weaving reduce redundant code.
-* service component are rapid and __careful for battery life__. Bridge based on BOOST C++ library. This enables us to benefit from __epoll__.
+* service component is rapid and __careful for battery life__. Bridge based on BOOST C++ library. This enables us to benefit from __epoll__. Bridge is __single threaded__. There are no mutexes, semaphores, conditional variables, etc. There are only asynchronous events.
 * at this time it is fully functional, has no ads and can be used for an unlimited period
 
 Feel free to translate or modify documentation, edit wiki or add comments.
