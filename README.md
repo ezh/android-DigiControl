@@ -40,7 +40,7 @@ Are we crazy? Want to help?
 Let us know:
 
 * email: alexey.ezh@gmail.com
-* tel: 7-495-5185377
+* tel: 1-800-8505240 USA/Canada Toll Free
 * skype: ezhariur
 
 ### [Readme](android-DigiControl/blob/master/README.en.md) [[ru]](android-DigiControl/blob/master/README.ru.md)
