@@ -1,6 +1,8 @@
 ![DigiControl Logo](https://github.com/ezh/android-DigiControl/raw/master/res/drawable-hdpi/ic_launcher.png) DigiControl
 ========================================================================================================================
 
+__Please install DigiControl and DigiSSHD simultaneously. This is two parts of the single application.__
+
 DigiControl is agile helper for console applications such as a network services, local utilites and so on. This is __interactive__ software that allowing for a __fine-grained__ control of who is allowed to access what or how many services at which time and log all that. This is lightweight [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) application that based on [C++ Boost](http://en.wikipedia.org/wiki/Boost_%28C%2B%2B_libraries%29), [Scala](http://en.wikipedia.org/wiki/Scala_%28programming_language%29), [AspectJ](http://en.wikipedia.org/wiki/AspectJ)
 
 DigiControl is proprietary commercial software. You may bought this software for our best price as low as 0.00 in your country's local currency.
